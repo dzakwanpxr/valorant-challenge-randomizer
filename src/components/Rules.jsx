@@ -23,6 +23,7 @@ function Rules() {
             5. If the weapon is expensive, you need to use the classic and buy
             nothing untill you can buy the weapon.
           </li>
+          <li className="text-xl pb-3">6. Good luck have fun! ;).</li>
         </ul>
       </div>
     </div>
